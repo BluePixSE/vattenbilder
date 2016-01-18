@@ -1,0 +1,19 @@
+{
+  "name": "vattenbilder",
+  "description": "A website for underwater photographer to share and develop skills.",
+  "main": "index.js",
+  "authors": [
+    "Oscar <oscaar.j@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/BluePixSE/vattenbilder",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
