@@ -1,0 +1,23 @@
+.navbar-default {
+    background: $prime-blue;
+    border-radius: 0;
+    border: 0;
+}
+
+
+.navbar-default .navbar-nav>li>a {
+    color: #FFF;
+}
+
+.navbar-default .navbar-nav>li>a:focus, 
+.navbar-default .navbar-nav>li>a:hover {
+    color: #FFF;
+    background: darken($prime-blue, 8%);
+}
+
+.navbar-default .navbar-nav>.active>a, 
+.navbar-default .navbar-nav>.active>a:focus, 
+.navbar-default .navbar-nav>.active>a:hover {
+    background: darken($prime-blue, 8%);
+    color: #FFF;
+}

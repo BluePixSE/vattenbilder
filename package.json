@@ -15,5 +15,15 @@
   "bugs": {
     "url": "https://github.com/BluePixSE/vattenbilder/issues"
   },
-  "homepage": "https://github.com/BluePixSE/vattenbilder#readme"
+  "homepage": "https://github.com/BluePixSE/vattenbilder#readme",
+  "dependencies": {
+    "angular-parse": "^0.2.2",
+    "autoprefixer": "^6.3.1",
+    "gulp": "^3.9.0",
+    "gulp-angular-templatecache": "^1.8.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-ng-annotate": "^1.1.0",
+    "gulp-sass": "^2.1.1",
+    "gulp-uglify": "^1.5.1"
+  }
 }
